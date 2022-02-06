@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @pakdatto and you can call me Pak if you want to :)
+- 👀 I’m interested in DevOps, UX/UI and making the world technically better for everyone.
+- 🌱 I’m currently learning DevOps, modern web application development with JavaScript, and UX/UI.
+- 📫 Feel free to contact me through GitHub or email: topakdat@gmail.com. My UX/UI portfolio can be found from www.pakdatto.com
+- 
+- ✨awesome✨
